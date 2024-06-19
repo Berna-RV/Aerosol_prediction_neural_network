@@ -1,4 +1,6 @@
 # Datasets
+predictions.csv
+aot_model.h5
 Sentinel2*
 test/
 train/
